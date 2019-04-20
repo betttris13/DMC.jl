@@ -1,0 +1,7 @@
+name = "DMC"
+uuid = "bd722090-6344-11e9-2272-7b5b05e9cff4"
+authors = ["Tristan <betttris13@yahoo.com.au>"]
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
